@@ -12,10 +12,21 @@ nav#pages-nav ul li a {
   margin: 1em;
 }
 
-#jessica-photo img {
-  border-radius: 2em;
-}
 body {
   font-family: 'Lora', serif;
 }
+#headshot {
+  border-radius: 2em;
+}
 
+.site-header {
+  background: black;
+}
+
+.site-title {
+  color: white;
+}
+
+.page-link a {
+  color: white;
+}
