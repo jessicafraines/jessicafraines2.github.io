@@ -4,8 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-![Alt text](/img/JessicaRaines.jpg "Optional title")
-
 Welcome to my blog. Each week, I will be blogging about my experiences in class. I will let you know what I have learned, share links to my code and give you an overall sense how things are going. Enjoy!
 
 <ul>
