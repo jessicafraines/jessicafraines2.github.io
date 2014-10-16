@@ -1,6 +1,6 @@
 ---
 layout: page
-title: take me back home
+title: home
 permalink: /
 ---
 

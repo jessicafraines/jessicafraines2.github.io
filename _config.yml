@@ -2,7 +2,10 @@
 title: Jessica F Raines
 email: jessicafraines@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This site will give you some insight as to who Jessica Raines is.
+  'All growth depends upon activity. There is no development physically or intellectually without effort, and effort means work.'
+  <br/> 
+  <cite>--Calvin Coolidge</cite>
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jessicafraines.github.io"
 twitter_username: jescafaith

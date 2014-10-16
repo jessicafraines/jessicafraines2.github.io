@@ -1,6 +1,6 @@
 ---
 layout: page
-title: let's see my blogs
+title: blog
 permalink: /blog/
 ---
 
