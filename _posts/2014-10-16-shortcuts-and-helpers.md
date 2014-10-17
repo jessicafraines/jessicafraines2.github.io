@@ -89,6 +89,10 @@ Make sure to hit **esc** before using any of these shortcuts.
         
     . - repeats the previous command - very helpful with multiple indents or outdents
 
+    u - undo the last change (you could do 100 undos if you would like)
+
+    crtl r - undoes the last undo
+
     :set paste i - use when pasting code from an external source into JavaScript file
 
     :set nopaste - when you are done pasting (if you don't do this, your indents will be messed up)
