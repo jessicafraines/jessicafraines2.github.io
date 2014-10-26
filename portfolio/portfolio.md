@@ -6,6 +6,8 @@ permalink: /portfolio/
 
 Here are links to a few of the projects that I've worked on since coming to Nashville Software School (NSS). They are all works in progress because I am still learning, but I am confident that you will see a wide variety of skills being used. 
 
+  * [Weather Forecast](https://github.com/jessicafraines/weather-forecast)
+  * [Volunteerism](https://github.com/jessicafraines/volunteerism)
   * [Github.io](https://github.com/jessicafraines/jessicafraines.github.io)
   * [Savings Multiplied](https://github.com/jessicafraines/savings-multiplied)
   * [JavaScript Koans Test](https://github.com/jessicafraines/JavaScript-Koans)
