@@ -9,17 +9,48 @@
     clear: both;
   }
   
-  h1{
-    border-bottom: 1px solid black;
-  }
-
-  #preamble{
+  section#preamble{
     display: block; 
-  }
-  #jobs{
-    & > ul{
-      list-style: none;
+    h1{
+      border-bottom: 1px solid black;
+      font-size: 1.5em;
+    }
+    a{
+      float: right;
+      clear: both;
     }
   }
-}
+  section#jobs{
+    & > ul{
+      list-style: none;
+      display: inline-block;
+      float: left;
+      width: 80%;
+      margin: 0;
+    }
+    h2{
+      display: inline-block;
+      float: left;
+      width: 40%;
+      line-height: 1;
+    }
+    h4{
+      display: inline-block;
+      margin: 0;
+    }
+    .dates1, .dates2{
+      float: right;
+    }
+    .employer:before{
+      content: '';
+      display: block;
+    }
+    .employer:after{
+      content: ', ';
+    }
+  }
+
+
+
+} //close of #resume
 
