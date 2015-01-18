@@ -1,23 +1,43 @@
 @import url(http://fonts.googleapis.com/css?family=Lora);
 
-#resume{
+#resume {
   background-image: url('/img/brillant.png');
   box-shadow: 10px 10px 5px #888888;
   padding: 5em;
-  
-  section{
+ section#preamble{
+   text-align: center;
+    h1{
+      border-bottom: 1px solid black;
+      font-size: 1.5em;
+      text-align: center;
+    }
+    a{
+      text-align: center;
+      clear: both;
+      display: block;
+    }
+    h4{
+      display: inline-block;
+      margin: 0;
+      font-size: 17px;
+      text-align: center;
+    }
+ } 
+/*  section{
     clear: both;
   }
   
-  section#preamble{
+ section#preamble{
     display: block; 
     h1{
       border-bottom: 1px solid black;
       font-size: 1.5em;
+      text-align: center;
     }
     a{
-      float: right;
+      text-align: center;
       clear: both;
+      display: block;
     }
   }
   section#jobs{
@@ -30,27 +50,32 @@
     }
     h2{
       display: inline-block;
-      float: left;
-      width: 40%;
+      text-align: center;
+      width: 100%;
       line-height: 1;
+      font-size: 20px;
     }
     h4{
       display: inline-block;
       margin: 0;
-    }
-    .dates1, .dates2{
-      float: right;
-    }
-    .employer:before{
-      content: '';
-      display: block;
-    }
-    .employer:after{
-      content: ', ';
+      font-size: 17px;
+      text-align: center;
     }
   }
+.skills{
+    -webkit-column-count: 4; /* Chrome, Safari, Opera 
+    -moz-column-count: 4; /* Firefox 
+    column-count: 4;
+}*/
+.pdf{
+  float: right;
+}
+.volunteer{
+  text-decoration: none;
+}
 
-
-
+.duties{
+  font-size: 12px;
+}
 } //close of #resume
 

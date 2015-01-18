@@ -13,3 +13,6 @@ Welcome to my blog. Each week, I will be blogging about my experiences in class.
     </li>
   {% endfor %}
 </ul>
+<div>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>
